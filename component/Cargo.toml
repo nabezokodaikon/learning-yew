@@ -1,0 +1,15 @@
+[package]
+name = "component"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+yew = "0.19.3"
+
+# [dependencies.web-sys]
+# features = [
+    # "Component",
+    # "Context",
+    # "Html",
+    # "Properties",
+# ]
